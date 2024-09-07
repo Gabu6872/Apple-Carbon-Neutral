@@ -1,4 +1,6 @@
 # Apple-Carbon-Neutral 2030
+![image](https://github.com/user-attachments/assets/a7e675bd-d6db-4655-8495-3ca41ff766e6)
+
 ## Description:
 1. Apple plans to cut emissions by 75% from 2015 levels by 2030, with the remaining 25% (9.6 million metric tons CO2e) offset through carbon removal, aiming for net zero emissions.
 2. 2030 Emissions Target Outlook:
